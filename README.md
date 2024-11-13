@@ -42,6 +42,11 @@ This plot shows the training and validation accuracy of the optimized CNN model 
 
 ![Training and Validation Accuracy](images/training_validation_accuracy_OPT_CNN.png)
 
+## Project Report
+The final project report is available for download and includes detailed analysis, findings, and insights. Due to its size, it is not viewable directly on GitHub, but you can download it and view it locally.
+
+- [Download Final Report](reports/Final_Report.pptx)
+
 ## Repository Structure
 - `notebooks/`: Contains the Jupyter notebook(s) used for data preprocessing, model training, and evaluation.
 - `reports/`: Project reports detailing exploratory data analysis, model building steps, and final insights.
